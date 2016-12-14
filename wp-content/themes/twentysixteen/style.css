@@ -865,10 +865,27 @@ a:active {
 
 .main-navigation .primary-menu {
 	border-bottom: 1px solid #d1d1d1;
+	margin-right: 35%;
 }
 
 .main-navigation .menu-item-has-children > a {
-	margin-right: 56px;
+	margin-left: 5%;
+}
+
+.main-navigation-left a {
+	color: wheat;
+	font-family: Avalon-Quest;
+	font-size: 22px;
+	display: block;
+	line-height: 1.3125;
+	outline-offset: -1px;
+	padding: 0 0 0 15%;
+}
+
+.main-navigation-left a:hover,
+.main-navigation-left a:focus {
+	color: darkred;
+	font-family: vampire;
 }
 
 .dropdown-toggle {
@@ -2998,6 +3015,7 @@ p > video {
 		background-image: url("../../uploads/images/SilentHills910.png");
 		background-repeat: no-repeat;
 		background-size: 100%;
+		padding-bottom: 15%;
 	}
 }
 
@@ -3072,7 +3090,7 @@ p > video {
 	.main-navigation a {
 		outline-offset: -8px;
 		/*padding: 0.65625em 0.875em;*/
-		padding: 0.6em 0em;
+		padding: 0.6em 0.1em;
 		white-space: nowrap;
 	}
 

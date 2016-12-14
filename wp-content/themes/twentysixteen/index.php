@@ -56,6 +56,7 @@ get_header(); ?>
 		?>
 
 			<?php
+			echo "hello";
 $allowed_tags = array(
 	'strong' => array (),
 	'a' => array(
@@ -67,6 +68,9 @@ $html = '<a href="#" class="external">link</a>.
 This is <b>bold</b> and <strong>strong</strong>';
 echo wp_kses( $html, $allowed_tags );
 echo get_option( 'prowp_display_mode' );
+
+
+// Insurance::clsName();
 
 //echo do_shortcode('[wppb-login]');
 //echo do_shortcode('[wppb-register]');

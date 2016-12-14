@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="896620f7-ae16-47a3-a9b2-cd6e5ac9a349" name="Default" comment="" />
+    <list default="true" id="896620f7-ae16-47a3-a9b2-cd6e5ac9a349" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/page.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentysixteen/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/twentysixteen/style.css" />
+    </list>
     <ignored path="wordpress.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,16 +28,26 @@
     <favorites_list name="wordpress" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.7710843">
-              <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#6#471#0#PHP" expanded="true" />
-                <element signature="e#2590#2638#0#PHP" expanded="true" />
+                <element signature="e#2634#2682#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-19.375">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -38,9 +55,33 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.75">
-              <caret line="62" column="47" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+              <folding>
+                <marker date="1481683375804" expanded="true" signature="1937:2008" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4253112">
+              <caret line="3092" column="26" selection-start-line="3092" selection-start-column="26" selection-end-line="3092" selection-end-column="26" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wp-user.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-includes/class-wp-user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="78.041664">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+              <folding>
+                <marker date="1467808829000" expanded="true" signature="5009:5056" placeholder="SELECT * FRO... ${$wpdb-&gt;users}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,7 +89,7 @@
       <file leaf-file-name="alternative-wave.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/alternative-wave/alternative-wave.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.625">
+            <state vertical-scroll-proportion="0.0">
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="9" selection-end-column="2" />
               <folding>
                 <element signature="e#6#242#0#PHP" expanded="true" />
@@ -70,165 +111,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="halloween-store.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/halloween-store/halloween-store.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.25">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
-              <folding>
-                <element signature="e#4972#4975#0#PHP" expanded="true" />
-                <element signature="e#12988#12995#0#PHP" expanded="true" />
-                <marker date="1481553340528" expanded="true" signature="7533:8243" placeholder="..." />
-                <marker date="1481553340528" expanded="true" signature="7609:8238" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="halloween-store2.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="halloween-store2.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/halloween-store2/halloween-store2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.054481547">
+            <state vertical-scroll-proportion="0.0">
               <caret line="419" column="18" selection-start-line="419" selection-start-column="18" selection-end-line="419" selection-end-column="18" />
               <folding>
                 <element signature="e#6#242#0#PHP" expanded="true" />
                 <marker date="1481562091902" expanded="true" signature="3899:3922" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="4130:4231" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="4164:4231" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="4585:4652" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7089" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7090" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7522" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7527" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7534" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7558" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7566" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7567" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7568" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7594" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7603" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7605" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7821" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7826" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7833" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7858" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7866" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7867" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7868" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7896" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7904" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:7906" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8117" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8122" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8129" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8153" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8161" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8162" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8163" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8190" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8198" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8200" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8224" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8697" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8709" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8711" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8740" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8927" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8940" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:8941" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:9034" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:9159" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:9172" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:9173" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:9174" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:9233" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:9305" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7051:11104" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7068:7089" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7193:7269" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7193:7270" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7193:7295" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7193:7304" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7193:7307" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7193:7331" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7222:7226" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7222:7231" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7222:7238" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7222:7260" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7222:7268" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7222:7269" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7366:7388" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7366:7522" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7561:7566" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7664:7685" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7664:7686" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7664:7719" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7664:7821" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7788:7821" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7965:8117" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7986:8003" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7986:8004" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7986:8015" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="7986:8063" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8267:8486" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8267:8697" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8292:8370" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8292:8486" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8401:8486" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8433:8476" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8433:8485" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8433:8486" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8541:8575" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8541:8654" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8768:8802" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8768:8884" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8768:8927" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="8944:8970" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9447:9482" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9447:9561" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9447:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9484:9539" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9562:9563" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9582:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9652:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9685:9797" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9685:9846" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9685:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9686:9720" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9866:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9891:9916" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9891:9927" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9891:9978" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="9891:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10003:10067" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10110:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10135:10157" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10135:10219" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10135:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10244:10310" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10353:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10378:10467" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10378:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10492:10559" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10602:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10627:10715" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10627:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10740:10806" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10849:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10874:10966" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10874:11085" placeholder="..." />
-                <marker date="1481562091902" expanded="true" signature="10991:11061" placeholder="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uninstall.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/halloween-store2/uninstall.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -241,6 +132,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -264,23 +158,24 @@
         <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/sidebar.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/archive-topic.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/single.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/archive.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/single-topic.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/social-media-buttons-toolbar/social-media-buttons-toolbar.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/archive-products.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/single-products.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/profile-builder/assets/css/style-front-end.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/style.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/alternative-wave/unistall.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/alternative-wave/alternative-wave.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/alternative-wave/uninstall.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/halloween-store/halloween-store.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/halloween-store2/halloween-store2.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/halloween-store2/uninstall.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/archive.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentysixteen/style.css" />
       </list>
     </option>
   </component>
@@ -323,6 +218,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -604,7 +500,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -643,6 +538,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -681,21 +581,21 @@
     <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20378788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20681818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5030349" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.4969651" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5030349" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.4969651" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -718,75 +618,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/hello.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.708334">
-          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-          <folding>
-            <marker date="1481182243007" expanded="true" signature="2139:2249" placeholder="..." />
-            <marker date="1481182243007" expanded="true" signature="2149:2240" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/taxonomy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29349735">
-          <caret line="372" column="8" selection-start-line="372" selection-start-column="8" selection-end-line="372" selection-end-column="40" />
-          <folding>
-            <marker date="1469616207000" expanded="true" signature="29244:29471" placeholder="SELECT tr.ob... ${$wpdb-&gt;term_relationships}" />
-            <marker date="1469616207000" expanded="true" signature="37156:37278" placeholder="SELECT t.*, ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="55787:55830" placeholder="SELECT term_... ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="55850:55981" placeholder="SELECT tt.te... ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="56909:57078" placeholder="SELECT tt.te... ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="57175:57349" placeholder="SELECT tt.te... ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="57441:57501" placeholder="SELECT term_... ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="57588:57653" placeholder="SELECT term_... ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="69240:69316" placeholder="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
-            <marker date="1469616207000" expanded="true" signature="70409:70484" placeholder="SELECT objec... ${$wpdb-&gt;term_relationships}" />
-            <marker date="1469616207000" expanded="true" signature="71280:71334" placeholder="SELECT meta_... ${$wpdb-&gt;termmeta}" />
-            <marker date="1469616207000" expanded="true" signature="71961:72021" placeholder="SELECT COUNT... ${$wpdb-&gt;term_taxonomy}" />
-            <marker date="1469616207000" expanded="true" signature="79216:79450" placeholder="SELECT ${$se... ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="80658:80883" placeholder="SELECT tr.te... ${$wpdb-&gt;term_relationships}" />
-            <marker date="1469616207000" expanded="true" signature="87067:87095" placeholder="SELECT MAX(t... ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="89560:89715" placeholder="SELECT tt.te... ${$wpdb-&gt;term_taxonomy}" />
-            <marker date="1469616207000" expanded="true" signature="90408:90637" placeholder="SELECT t.ter... ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="94803:94904" placeholder="SELECT term_... ${$wpdb-&gt;term_relationships}" />
-            <marker date="1469616207000" expanded="true" signature="95890:96009" placeholder="SELECT tt.te... ${$wpdb-&gt;term_taxonomy}" />
-            <marker date="1469616207000" expanded="true" signature="96660:96831" placeholder="INSERT INTO ${$wpdb-&gt;term_relationships}... " />
-            <marker date="1469616207000" expanded="true" signature="99606:99701" placeholder="DELETE FROM " />
-            <marker date="1469616207000" expanded="true" signature="102637:102700" placeholder="SELECT slug ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="102766:102811" placeholder="SELECT slug ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="102983:103028" placeholder="SELECT slug ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="106735:106763" placeholder="SELECT MAX(t... ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="108052:108207" placeholder="SELECT tt.te... ${$wpdb-&gt;term_taxonomy}" />
-            <marker date="1469616207000" expanded="true" signature="116361:116447" placeholder="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
-            <marker date="1469616207000" expanded="true" signature="125538:125805" placeholder="SELECT objec... ${$wpdb-&gt;term_relationships}" />
-            <marker date="1469616207000" expanded="true" signature="127330:127457" placeholder="SELECT t.*, ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="128852:129186" placeholder="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
-            <marker date="1469616207000" expanded="true" signature="129051:129113" placeholder="SELECT post_... ${$wpdb-&gt;posts}" />
-            <marker date="1469616207000" expanded="true" signature="129276:129511" placeholder="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
-            <marker date="1469616207000" expanded="true" signature="130360:130434" placeholder="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
-            <marker date="1469616207000" expanded="true" signature="132763:132859" placeholder="SELECT COUNT... ${$wpdb-&gt;term_taxonomy}" />
-            <marker date="1469616207000" expanded="true" signature="133219:133287" placeholder="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
-            <marker date="1469616207000" expanded="true" signature="133552:133603" placeholder="SELECT t.* F... ${$wpdb-&gt;terms}" />
-            <marker date="1469616207000" expanded="true" signature="134310:134372" placeholder="SELECT * FRO... ${$wpdb-&gt;term_taxonomy}" />
-            <marker date="1469616207000" expanded="true" signature="134455:134540" placeholder="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
-            <marker date="1469616207000" expanded="true" signature="135174:135234" placeholder="SELECT taxon... ${$wpdb-&gt;term_taxonomy}" />
-            <marker date="1469616207000" expanded="true" signature="135940:136137" placeholder="SELECT tt.te... $" />
-            <marker date="1469616207000" expanded="true" signature="137841:138039" placeholder="SELECT tt.te... $" />
-            <marker date="1469616207000" expanded="true" signature="138768:138844" placeholder="SELECT * FRO... $" />
-            <marker date="1469616207000" expanded="true" signature="141887:142289" placeholder="SELECT m1.po... $" />
-            <marker date="1469616207000" expanded="true" signature="144973:145033" placeholder="SELECT COUNT... ${$wpdb-&gt;term_taxonomy}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/widgets.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.9753954">
           <caret line="612" column="9" selection-start-line="612" selection-start-column="9" selection-end-line="612" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,9 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31634447">
           <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="e#6#161#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -804,15 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21089631">
           <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/archive.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.82994455">
-          <caret line="63" column="39" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -820,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7627416">
           <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -828,7 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.1880493">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -836,7 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -852,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,9 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9168207">
           <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
-          <folding>
-            <marker date="1481288956442" expanded="true" signature="1625:2046" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -870,7 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.77855885">
           <caret line="669" column="6" selection-start-line="669" selection-start-column="6" selection-end-line="669" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -989,17 +804,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7710843">
-          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
-          <folding>
-            <element signature="e#6#471#0#PHP" expanded="true" />
-            <element signature="e#2590#2638#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.9560633">
@@ -1035,15 +839,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.84182775">
           <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/archive-products.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84182775">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1055,134 +850,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4509804">
-          <caret line="2761" column="8" selection-start-line="2761" selection-start-column="10" selection-end-line="2761" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.75">
-          <caret line="62" column="47" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-admin/includes/upgrade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-27.601055">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1468969952000" expanded="true" signature="4193:4264" placeholder="SELECT cat_I... $" />
-            <marker date="1468969952000" expanded="true" signature="10839:10904" placeholder="DELETE FROM " />
-            <marker date="1468969952000" expanded="true" signature="10980:11045" placeholder="DELETE FROM " />
-            <marker date="1468969952000" expanded="true" signature="15474:15550" placeholder="SELECT blog_... $" />
-            <marker date="1468969952000" expanded="true" signature="15574:15673" placeholder="UPDATE ${{$w... " />
-            <marker date="1468969952000" expanded="true" signature="15703:15838" placeholder="INSERT INTO $... " />
-            <marker date="1468969952000" expanded="true" signature="19001:19072" placeholder="SELECT ID, p... ${$wpdb-&gt;posts}" />
-            <marker date="1468969952000" expanded="true" signature="19239:19291" placeholder="UPDATE ${$wp... " />
-            <marker date="1468969952000" expanded="true" signature="19367:19415" placeholder="SELECT cat_I... ${$wpdb-&gt;categories}" />
-            <marker date="1468969952000" expanded="true" signature="19705:19870" placeholder="UPDATE ${$wp... " />
-            <marker date="1468969952000" expanded="true" signature="20046:20075" placeholder="SELECT DISTI... ${$wpdb-&gt;post2cat}" />
-            <marker date="1468969952000" expanded="true" signature="20360:20430" placeholder="SELECT ID, p... ${$wpdb-&gt;posts}" />
-            <marker date="1468969952000" expanded="true" signature="20585:20654" placeholder="SELECT * FRO... ${$wpdb-&gt;post2cat}" />
-            <marker date="1468969952000" expanded="true" signature="21708:21753" placeholder="SELECT ID, u... ${$wpdb-&gt;users}" />
-            <marker date="1468969952000" expanded="true" signature="22020:22046" placeholder="SELECT ID, u... ${$wpdb-&gt;users}" />
-            <marker date="1468969952000" expanded="true" signature="23098:23129" placeholder="SELECT MAX(p... ${$wpdb-&gt;posts}" />
-            <marker date="1468969952000" expanded="true" signature="23381:23488" placeholder="UPDATE ${$wp... " />
-            <marker date="1468969952000" expanded="true" signature="23508:23557" placeholder="UPDATE ${$wp... " />
-            <marker date="1468969952000" expanded="true" signature="23577:23737" placeholder="UPDATE ${$wp... " />
-            <marker date="1468969952000" expanded="true" signature="23757:23873" placeholder="UPDATE ${$wp... " />
-            <marker date="1468969952000" expanded="true" signature="23893:24008" placeholder="UPDATE ${$wp... " />
-            <marker date="1468969952000" expanded="true" signature="24269:24378" placeholder="SELECT ID, p... ${$wpdb-&gt;posts}" />
-            <marker date="1468969952000" expanded="true" signature="24919:24975" placeholder="SELECT comme... ${$wpdb-&gt;comments}" />
-            <marker date="1468969952000" expanded="true" signature="25363:25412" placeholder="SELECT link_... ${$wpdb-&gt;links}" />
-            <marker date="1468969952000" expanded="true" signature="26065:26119" placeholder="DROP TABLE I... " />
-            <marker date="1468969952000" expanded="true" signature="26138:26191" placeholder="DROP TABLE I... " />
-            <marker date="1468969952000" expanded="true" signature="26210:26264" placeholder="DROP TABLE I... " />
-            <marker date="1468969952000" expanded="true" signature="26283:26344" placeholder="DROP TABLE I... " />
-            <marker date="1468969952000" expanded="true" signature="26863:26953" placeholder="SELECT optio... ${$wpdb-&gt;options}" />
-            <marker date="1468969952000" expanded="true" signature="27138:27206" placeholder="SELECT optio... ${$wpdb-&gt;options}" />
-            <marker date="1468969952000" expanded="true" signature="27320:27377" placeholder="DELETE FROM " />
-            <marker date="1468969952000" expanded="true" signature="27719:27733" placeholder="SELECT * FRO... ${$wpdb-&gt;users}" />
-            <marker date="1468969952000" expanded="true" signature="30127:30157" placeholder="ALTER TABLE ${$wpdb-&gt;users}... " />
-            <marker date="1468969952000" expanded="true" signature="30272:30384" placeholder="SELECT comme... ${$wpdb-&gt;comments}" />
-            <marker date="1468969952000" expanded="true" signature="30826:30893" placeholder="SELECT ID, p... ${$wpdb-&gt;posts}" />
-            <marker date="1468969952000" expanded="true" signature="31634:31662" placeholder="SELECT ID, p... ${$wpdb-&gt;posts}" />
-            <marker date="1468969952000" expanded="true" signature="31994:32064" placeholder="UPDATE ${$wp... " />
-            <marker date="1468969952000" expanded="true" signature="32311:32414" placeholder="UPDATE ${$wp... " />
-            <marker date="1468969952000" expanded="true" signature="32450:32516" placeholder="SELECT ID, p... ${$wpdb-&gt;posts}" />
-            <marker date="1468969952000" expanded="true" signature="33119:33166" placeholder="SELECT * FRO... ${$wpdb-&gt;categories}" />
-            <marker date="1468969952000" expanded="true" signature="33559:33619" placeholder="SELECT term_... ${$wpdb-&gt;terms}" />
-            <marker date="1468969952000" expanded="true" signature="33822:33867" placeholder="SELECT slug ${$wpdb-&gt;terms}" />
-            <marker date="1468969952000" expanded="true" signature="34003:34063" placeholder="SELECT MAX(t... ${$wpdb-&gt;terms}" />
-            <marker date="1468969952000" expanded="true" signature="34105:34163" placeholder="UPDATE ${$wp... " />
-            <marker date="1468969952000" expanded="true" signature="34229:34313" placeholder="INSERT INTO ${$wpdb-&gt;terms}... " />
-            <marker date="1468969952000" expanded="true" signature="34521:34630" placeholder="INSERT INTO ${$wpdb-&gt;term_taxonomy}... " />
-            <marker date="1468969952000" expanded="true" signature="34898:35007" placeholder="INSERT INTO ${$wpdb-&gt;term_taxonomy}... " />
-            <marker date="1468969952000" expanded="true" signature="35781:35846" placeholder="SELECT ${$se... ${$wpdb-&gt;post2cat}" />
-            <marker date="1468969952000" expanded="true" signature="36602:36666" placeholder="SELECT cat_i... ${$wpdb-&gt;prefix}" />
-            <marker date="1468969952000" expanded="true" signature="36995:37055" placeholder="SELECT term_... ${$wpdb-&gt;terms}" />
-            <marker date="1468969952000" expanded="true" signature="37643:37678" placeholder="SELECT link_... ${$wpdb-&gt;links}" />
-            <marker date="1468969952000" expanded="true" signature="38290:38368" placeholder="SELECT link_... ${$wpdb-&gt;link2cat}" />
-            <marker date="1468969952000" expanded="true" signature="38800:38856" placeholder="DROP TABLE I... " />
-            <marker date="1468969952000" expanded="true" signature="38921:38960" placeholder="SELECT term_... ${$wpdb-&gt;term_taxonomy}" />
-            <marker date="1468969952000" expanded="true" signature="39143:39340" placeholder="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
-            <marker date="1468969952000" expanded="true" signature="39422:39496" placeholder="SELECT COUNT... ${$wpdb-&gt;term_relationships}" />
-            <marker date="1468969952000" expanded="true" signature="40078:40110" placeholder="ALTER TABLE ${$wpdb-&gt;options}... " />
-            <marker date="1468969952000" expanded="true" signature="40378:40430" placeholder="DROP TABLE I... " />
-            <marker date="1468969952000" expanded="true" signature="40449:40499" placeholder="DROP TABLE I... " />
-            <marker date="1468969952000" expanded="true" signature="40518:40568" placeholder="DROP TABLE I... " />
-            <marker date="1468969952000" expanded="true" signature="40845:40925" placeholder="UPDATE ${$wp... " />
-            <marker date="1468969952000" expanded="true" signature="41386:41434" placeholder="UPDATE ${$wp... " />
-            <marker date="1468969952000" expanded="true" signature="42115:42204" placeholder="UPDATE ${$wp... " />
-            <marker date="1468969952000" expanded="true" signature="42600:42688" placeholder="SELECT optio... ${$wpdb-&gt;options}" />
-            <marker date="1468969952000" expanded="true" signature="44092:44524" placeholder="DELETE FROM " />
-            <marker date="1468969952000" expanded="true" signature="45471:45562" placeholder="DELETE FROM " />
-            <marker date="1468969952000" expanded="true" signature="47502:47548" placeholder="ALTER TABLE ${$wpdb-&gt;options}... " />
-            <marker date="1468969952000" expanded="true" signature="47662:47717" placeholder="ALTER TABLE ${$wpdb-&gt;comments}... " />
-            <marker date="1468969952000" expanded="true" signature="47844:47907" placeholder="DELETE FROM " />
-            <marker date="1468969952000" expanded="true" signature="47990:48065" placeholder="SELECT autol... ${$wpdb-&gt;options}" />
-            <marker date="1468969952000" expanded="true" signature="48521:48561" placeholder="SELECT link_... ${$wpdb-&gt;links}" />
-            <marker date="1468969952000" expanded="true" signature="49042:49102" placeholder="DELETE FROM " />
-            <marker date="1468969952000" expanded="true" signature="52844:53059" placeholder="SELECT `comm... ${{$wpdb-&gt;comments}}" />
-            <marker date="1468969952000" expanded="true" signature="53838:53898" placeholder="ALTER TABLE $... " />
-            <marker date="1468969952000" expanded="true" signature="54635:54707" placeholder="DELETE FROM " />
-            <marker date="1468969952000" expanded="true" signature="57152:57236" placeholder="SELECT meta_... $" />
-            <marker date="1468969952000" expanded="true" signature="59136:59218" placeholder="ALTER TABLE ${$wpdb-&gt;usermeta}... " />
-            <marker date="1468969952000" expanded="true" signature="59241:59322" placeholder="ALTER TABLE ${$wpdb-&gt;site}... " />
-            <marker date="1468969952000" expanded="true" signature="59345:59427" placeholder="ALTER TABLE ${$wpdb-&gt;sitemeta}... " />
-            <marker date="1468969952000" expanded="true" signature="59450:59544" placeholder="ALTER TABLE ${$wpdb-&gt;signups}... " />
-            <marker date="1468969952000" expanded="true" signature="60298:60392" placeholder="ALTER TABLE ${$wpdb-&gt;signups}... " />
-            <marker date="1468969952000" expanded="true" signature="62066:62106" placeholder="ALTER TABLE `${$table}`... " />
-            <marker date="1468969952000" expanded="true" signature="62224:62269" placeholder="ALTER TABLE `${$table}`... " />
-            <marker date="1468969952000" expanded="true" signature="62659:62702" placeholder="ALTER TABLE `${$table}`... " />
-            <marker date="1468969952000" expanded="true" signature="64632:64710" placeholder="ALTER TABLE ${$table}... " />
-            <marker date="1468969952000" expanded="true" signature="64969:65007" placeholder="SELECT optio... ${$wpdb-&gt;options}" />
-            <marker date="1468969952000" expanded="true" signature="65866:65928" placeholder="SELECT optio... ${$wpdb-&gt;options}" />
-            <marker date="1468969952000" expanded="true" signature="76620:76678" placeholder="ALTER TABLE $... " />
-            <marker date="1468969952000" expanded="true" signature="77190:77277" placeholder="ALTER TABLE $... " />
-            <marker date="1468969952000" expanded="true" signature="77858:77890" placeholder="ALTER TABLE $... " />
-            <marker date="1468969952000" expanded="true" signature="80448:80473" placeholder="ALTER TABLE $... " />
-            <marker date="1468969952000" expanded="true" signature="89001:89041" placeholder="SELECT link_... ${$wpdb-&gt;links}" />
-            <marker date="1468969952000" expanded="true" signature="89688:89759" placeholder="ALTER TABLE ${$wpdb-&gt;options}... " />
-            <marker date="1468969952000" expanded="true" signature="89848:89897" placeholder="ALTER TABLE ${$wpdb-&gt;options}... " />
-            <marker date="1468969952000" expanded="true" signature="90162:90255" placeholder="ALTER TABLE ${$wpdb-&gt;signups}... " />
-            <marker date="1468969952000" expanded="true" signature="90278:90322" placeholder="ALTER TABLE ${$wpdb-&gt;signups}... " />
-            <marker date="1468969952000" expanded="true" signature="90437:90525" placeholder="ALTER TABLE ${$wpdb-&gt;blogs}... " />
-            <marker date="1468969952000" expanded="true" signature="90548:90634" placeholder="ALTER TABLE ${$wpdb-&gt;blogs}... " />
-            <marker date="1468969952000" expanded="true" signature="90806:90888" placeholder="ALTER TABLE ${$wpdb-&gt;usermeta}... " />
-            <marker date="1468969952000" expanded="true" signature="90914:90981" placeholder="ALTER TABLE ${$wpdb-&gt;terms}... " />
-            <marker date="1468969952000" expanded="true" signature="91003:91070" placeholder="ALTER TABLE ${$wpdb-&gt;terms}... " />
-            <marker date="1468969952000" expanded="true" signature="91092:91177" placeholder="ALTER TABLE ${$wpdb-&gt;commentmeta}... " />
-            <marker date="1468969952000" expanded="true" signature="91199:91281" placeholder="ALTER TABLE ${$wpdb-&gt;postmeta}... " />
-            <marker date="1468969952000" expanded="true" signature="91303:91385" placeholder="ALTER TABLE ${$wpdb-&gt;posts}... " />
-            <marker date="1468969952000" expanded="true" signature="91749:91831" placeholder="ALTER TABLE ${$wpdb-&gt;termmeta}... " />
-            <marker date="1468969952000" expanded="true" signature="92150:92471" placeholder="CREATE TABLE... ${$wpdb-&gt;sitecategories}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1190,13 +861,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.875">
           <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/halloween-store/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/halloween-store2/uninstall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/archive-products.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.97539544">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/halloween-store/halloween-store.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.18453427">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#471#0#PHP" expanded="true" />
+            <element signature="e#2634#2682#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.375">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/alternative-wave/alternative-wave.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="9" selection-end-column="2" />
           <folding>
             <element signature="e#6#242#0#PHP" expanded="true" />
@@ -1217,168 +941,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/halloween-store/halloween-store.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
-          <folding>
-            <element signature="e#4972#4975#0#PHP" expanded="true" />
-            <element signature="e#12988#12995#0#PHP" expanded="true" />
-            <marker date="1481553340528" expanded="true" signature="7533:8243" placeholder="..." />
-            <marker date="1481553340528" expanded="true" signature="7609:8238" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/halloween-store/uninstall.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/halloween-store2/uninstall.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/halloween-store2/halloween-store2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.054481547">
+        <state vertical-scroll-proportion="0.0">
           <caret line="419" column="18" selection-start-line="419" selection-start-column="18" selection-end-line="419" selection-end-column="18" />
           <folding>
             <element signature="e#6#242#0#PHP" expanded="true" />
             <marker date="1481562091902" expanded="true" signature="3899:3922" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="4130:4231" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="4164:4231" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="4585:4652" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7089" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7090" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7522" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7527" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7534" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7558" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7566" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7567" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7568" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7594" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7603" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7605" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7821" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7826" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7833" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7858" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7866" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7867" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7868" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7896" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7904" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:7906" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8117" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8122" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8129" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8153" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8161" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8162" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8163" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8190" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8198" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8200" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8224" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8697" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8709" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8711" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8740" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8927" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8940" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:8941" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:9034" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:9159" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:9172" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:9173" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:9174" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:9233" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:9305" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7051:11104" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7068:7089" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7193:7269" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7193:7270" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7193:7295" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7193:7304" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7193:7307" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7193:7331" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7222:7226" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7222:7231" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7222:7238" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7222:7260" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7222:7268" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7222:7269" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7366:7388" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7366:7522" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7561:7566" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7664:7685" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7664:7686" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7664:7719" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7664:7821" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7788:7821" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7965:8117" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7986:8003" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7986:8004" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7986:8015" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="7986:8063" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8267:8486" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8267:8697" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8292:8370" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8292:8486" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8401:8486" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8433:8476" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8433:8485" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8433:8486" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8541:8575" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8541:8654" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8768:8802" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8768:8884" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8768:8927" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="8944:8970" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9447:9482" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9447:9561" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9447:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9484:9539" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9562:9563" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9582:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9652:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9685:9797" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9685:9846" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9685:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9686:9720" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9866:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9891:9916" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9891:9927" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9891:9978" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="9891:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10003:10067" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10110:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10135:10157" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10135:10219" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10135:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10244:10310" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10353:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10378:10467" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10378:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10492:10559" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10602:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10627:10715" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10627:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10740:10806" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10849:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10874:10966" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10874:11085" placeholder="..." />
-            <marker date="1481562091902" expanded="true" signature="10991:11061" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-wp-user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="78.041664">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <marker date="1467808829000" expanded="true" signature="5009:5056" placeholder="SELECT * FRO... ${$wpdb-&gt;users}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding>
+            <marker date="1481683375804" expanded="true" signature="1937:2008" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentysixteen/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4253112">
+          <caret line="3092" column="26" selection-start-line="3092" selection-start-column="26" selection-end-line="3092" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>

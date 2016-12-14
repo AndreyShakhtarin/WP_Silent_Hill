@@ -45,11 +45,18 @@
 
 					if ( $description || is_customize_preview() ) : ?>
 						<p class="site-description"><?php echo $description; ?></p>
-					<?php endif; ?>
+					<?php endif;
+					if(!_wp_get_current_user()->user_login){
+						echo
+							"<div class='main-navigation-left'>
+								  <a href='/main/registration/'>Registration</a>
+							</div>";
+					}
+					?>
+
 				</div><!-- .site-branding -->
 					<?php if ( has_nav_menu( 'primary' ) || has_nav_menu( 'social' ) ) : ?>
 					<button id="menu-toggle" class="menu-toggle"><?php _e( 'Menu', 'twentysixteen' ); ?></button>
-
 					<div id="site-header-menu" class="site-header-menu">
 						<?php if ( has_nav_menu( 'primary' ) ) : ?>
 							<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="<?php esc_attr_e( 'Primary Menu', 'twentysixteen' ); ?>">
@@ -59,9 +66,9 @@
 										'menu_class'     => 'primary-menu',
 									 ) );
 								?>
-								<div class="login-user">
-									<?php echo do_shortcode("[wppb-login]")?>
-								</div>
+<!--								<div class="login-user">-->
+<!--									--><?php //echo do_shortcode("[wppb-login]")?>
+<!--								</div>-->
 							</nav><!-- .main-navigation -->
 						<?php endif; ?>
 
@@ -85,6 +92,7 @@
 
 			<?php if ( get_header_image() ) : ?>
 				<?php
+
 					/**
 					 * Filter the default twentysixteen custom header sizes attribute.
 					 *
@@ -104,3 +112,5 @@
 			<?php endif; // End header image check. ?>
 		</header><!-- .site-header -->
 		<div id="content" class="site-content">
+<?php
+?>
